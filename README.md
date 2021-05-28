@@ -11,8 +11,7 @@
 <h3>Exercice 2 - Première méthode : stockage par liste chaînée</h3> 
 - Algorithme de reconstitution de réseau en codant l’ensemble des nœuds du réseau par une liste chaînée. Pour cela, nous avons besoin de définir une structure pour manipuler un réseau: ensemble de nœuds, de câbles et de commodités.
 <h2> Structure de réseau utilisée</h2>
- 
- ![Capture d’écran 2021-05-28 à 11 47 37](https://user-images.githubusercontent.com/72084057/119965390-81535600-bfaa-11eb-984e-7c0ced2f590f.png)
+![Capture d’écran 2021-05-28 à 11 47 37](https://user-images.githubusercontent.com/72084057/119965390-81535600-bfaa-11eb-984e-7c0ced2f590f.png)
  - Reseau.h
  
  <h3>Exercice 3 - Manipulation d'un réseau</h3> 
@@ -24,9 +23,9 @@
 
  <h3> Exercice 5- Manipulation d'un réseau</h3> 
 - Pour cet exercice, un arbre quaternaire sera utilisé pour la reconstitution du réseau. Comme pour la table de hachage, l’arbre quaternaire va nous permettre de d ́eterminer rapidement si un nœud a déjà été stocké dans le réseau.
-- 
 <h2> Structure de réseau utilisée</h2>
 ![Capture d’écran 2021-05-28 à 11 53 19](https://user-images.githubusercontent.com/72084057/119966148-4ef62880-bfab-11eb-9ddf-a619d189ab22.png)
+- ArbreQuat.h 
 
 
 
